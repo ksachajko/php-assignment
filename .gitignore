@@ -1,4 +1,5 @@
 /.idea
+app/.idea
 /.env
 /env/*.env
 .DS_Store
